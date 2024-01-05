@@ -1,0 +1,7 @@
+Versek sorszáma
+A versek sorszáma
+Sorok száma strófánként
+Versszakonkénti sorok száma
+A versszak sorszáma
+Versszakonkénti sorelosztás
+Sorok mennyisége minden versszakban

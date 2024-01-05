@@ -1,0 +1,11 @@
+Készíts versszakot egy megadott szerkezetet követve.
+Írjon eghatározott formájú strófát.
+Alkosson versszakot egy meghatározott mintát szem előtt tartva.
+Írjon egységet egy versből strukturált irányelvek szerint.
+Fogalmazzon meg egy versszakot meghatározott paramétereket betartva.
+Hozz létre egy strukturált verses mű egyetlen verszakát.
+Alkosson egy verszakot meghatározott formátummal.
+Strukturált szempontok szerint alkoss egy versszakot.
+Írj verses egységet egy előre meghatározott formát követve.
+Formálj verszakot a választott keret vagy modell szerint.
+Konstruálj egy strófát egy előírt rendszert betartva.

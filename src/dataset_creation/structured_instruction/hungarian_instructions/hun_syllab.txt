@@ -1,0 +1,5 @@
+Szótagszerkezet soronként
+Szótagszám soronként
+A szótagok száma soronként
+Szótagmintázat soronként
+Szótagrendszer soronként

@@ -1,0 +1,3 @@
+A strófák száma
+Versszakok száma
+Ennyi versszak legyen
