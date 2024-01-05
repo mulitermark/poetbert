@@ -1,5 +1,5 @@
 import random
-import tqdm
+from tqdm import tqdm
 import pandas as pd
 
 from utils import read_json_dataframe
