@@ -1,3 +1,4 @@
 ## PoetBert
 
-Jelenleg csak a "dataset_creation" nevű mappát tartalmazza, ami az adathalmaz elkészítéséhez használt kódot tartalmazza. A mappa tartalma Márk munkája.
+Jelenleg tartalmazza Márk munkáját. A "data" mappában elkészült adathalmazok és azok elkészítéséhez fontos adatok láthatóak, míg az src/dataset_creation mappában az adat elkészítéséhez és alakításához szükséges kód látható.
+
