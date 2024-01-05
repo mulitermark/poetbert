@@ -1,0 +1,223 @@
+Készíts egy strófát a [RHYME_PATTERN] rímképletnek megfelelően.
+Írj egy költői strófát, amely a [RHYME_PATTERN] rímstruktúrához igazodik.
+Készíts egy a [RHYME_PATTERN] rímmintázatnak megfelelő versszakot.
+Írj egy versszakot egy olyan versből, amely a [RHYME_PATTERN] rímképletet használja.
+Készíts egy költői strófát, amely követi a [RHYME_PATTERN] rímmintát.
+Írj egy olyan versszakot egy versből, amely a [RHYME_PATTERN] rímstruktúrával rendelkezik.
+Készíts egy versszakot egy olyan versből, amely a [RHYME_PATTERN] rímképlethez igazodik.
+Konstruálj egy költői verset a [RHYME_PATTERN] rímmintázatnak megfelelően.
+Írj egy olyan strófát egy versből, amely követi a [RHYME_PATTERN] rímszerkezetet.
+Készíts egy költői versszakot, amely igazodik a [RHYME_PATTERN] rímstruktúrához.
+Készíts egy a [RHYME_PATTERN] rímmintázatnak megfelelő versszakot.
+Írj egy olyan versszakot, amely követi a [RHYME_PATTERN] rímmintát.
+Írj egy költői verset [RHYME_PATTERN] rímszerkezetben.
+Alkoss egy strófát, amely a [RHYME_PATTERN] rímképletnek felel meg.
+Írj egy költői részletet [RHYME_PATTERN] rímszekvenciával.
+Hozz létre egy verset, amely [RHYME_PATTERN] rímszerkezettel rendelkezik.
+Rendezz el néhány költői sort úgy, hogy a rímképlet [RHYME_PATTERN] legyen.
+Alkoss egy strófát a [RHYME_PATTERN] rímszerkezettel.
+Készítsen egy költői részletet [RHYME_PATTERN] következetes rímminta szerint.
+Rendezd el a verset úgy, hogy fenntartsd a rímszerkezetet [RHYME_PATTERN].
+Alkoss egy versszakot a [RHYME_PATTERN] rímmintával.
+Készítsen egy költői részletet [RHYME_PATTERN] rímsorozattal.
+Írj néhány verset, amely [RHYME_PATTERN] rímszerkéhez illeszkedik.
+Alkoss egy versszakot a [RHYME_PATTERN] rímmintával.
+Írj egy verset következetes rímmintával [RHYME_PATTERN].
+Rendezd el adott számú költői sort úgy, hogy a rímelés a [RHYME_PATTERN] mintának feleljen meg.
+Alkoss egy versszakot a [RHYME_PATTERN] rímszekvenciával.
+Készítsen egy verset következetes [RHYME_PATTERN] rímmintával.
+Rendezd el egy verset úgy, hogy fenntartsd a [RHYME_PATTERN] rímszerkezetet.
+Alkoss egy versszakot a [RHYME_PATTERN] rímmintával, létrehozva egy költői dallamot.
+Szerezz egy strófát egy versből, biztosítva, hogy a rímelés a [RHYME_PATTERN] mintának feleljen meg.
+Egy költő vagy. Alkoss egy [LINE_LENGTH] soros strófát [RHYME_PATTERN] rímszerkezettel.
+Állíts elő költői tehetséggel egy [LINE_LENGTH] soros versszakot, amely [RHYME_PATTERN] rímszerkezetet követ.
+Használd költői képességeid, hogy egy [LINE_LENGTH] soros strófát alkothass [RHYME_PATTERN] rímmintával.
+Engedd szabadon kreatív lelkedet, és írj egy [LINE_LENGTH] soros versszakot, amely [RHYME_PATTERN] rímszerkezetet követ.
+Indulj költői utazásra, és komponálj egy [LINE_LENGTH] soros strófát [RHYME_PATTERN] rímszerkezettel.
+Vegyél részt ritmusos szójátékban, és készíts egy [LINE_LENGTH] soros versszakot [RHYME_PATTERN] rímszerkezettel.
+Hagyd, hogy szavaid harmóniában táncoljanak, és hozz létre egy [LINE_LENGTH] soros strófát, amely [RHYME_PATTERN] rímszerkezetet követ.
+Merülj el belső költőben, és szőj egy [LINE_LENGTH] soros versszakot [RHYME_PATTERN] rímmintával.
+Hódítsd meg a rímművészetet, és alkots egy [LINE_LENGTH] soros strófát, amely [RHYME_PATTERN] rímszerkezetet követ.
+Engedd szárnyalni fantáziádat, és írj egy [LINE_LENGTH] soros versszakot, amely [RHYME_PATTERN] rímszerkezethez igazodik.
+Írj le egy [LINE_LENGTH] soros versszakot [RHYME_PATTERN] rímszerkezettel.
+Alkoss egy [LINE_LENGTH] soros verset [RHYME_PATTERN] rímmintázattal.
+Készíts [LINE_LENGTH] soros költői verset [RHYME_PATTERN] rímszerkezetben.
+Hozzon létre egy [LINE_LENGTH] soros költemény-szakaszt [RHYME_PATTERN] rímszerkezettel.
+Alkoss [LINE_LENGTH] soros lírai tartalmat az [RHYME_PATTERN] rímszerkezet használatával.
+Írj meg egy [LINE_LENGTH] soros verset [RHYME_PATTERN] rímszerkezettel.
+Készíts [LINE_LENGTH] soros ritmikus verset [RHYME_PATTERN] rímmintával.
+Alkoss egy [LINE_LENGTH] soros költői alkotást az [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros verset az [RHYME_PATTERN] rímszerkezet követésével.
+Írj le egy [LINE_LENGTH] soros verset [RHYME_PATTERN] rímmintában.
+Írj [LINE_LENGTH] soros ritmikus prózát [RHYME_PATTERN] rímszerkezettel.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt [RHYME_PATTERN] rímszerkezettel.
+Készíts [LINE_LENGTH] soros költői verset [RHYME_PATTERN] rímmintázattal.
+Hozzon létre egy [LINE_LENGTH] soros költeményt [RHYME_PATTERN] rímszerkezettel.
+Alkoss [LINE_LENGTH] soros lírai tartalmat [RHYME_PATTERN] rímmintával.
+Írj meg egy [LINE_LENGTH] soros versszakot a [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros ritmikus verset [RHYME_PATTERN] rímmintával.
+Alkoss egy [LINE_LENGTH] soros költeményt az [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros versszakot a [RHYME_PATTERN] rímszerkezet követésével.
+Írj le egy [LINE_LENGTH] soros verset a [RHYME_PATTERN] rímmintában.
+Írj [LINE_LENGTH] soros ritmikus prózát [RHYME_PATTERN] rímszerkezettel.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt a [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros költői versszakot a [RHYME_PATTERN] rímmintázattal.
+Hozzon létre egy [LINE_LENGTH] soros költeményt [RHYME_PATTERN] rímszerkezettel.
+Alkoss [LINE_LENGTH] soros lírai tartalmat [RHYME_PATTERN] rímmintával.
+Írj meg egy [LINE_LENGTH] soros verset a [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros ritmikus versszakot [RHYME_PATTERN] rímmintával.
+Alkoss egy [LINE_LENGTH] soros költői kompozíciót az [RHYME_PATTERN] rímszerkezet használatásával.
+Készíts [LINE_LENGTH] soros verset a [RHYME_PATTERN] rímszerkezet követésével.
+Írj le egy [LINE_LENGTH] soros versszakot a [RHYME_PATTERN] rímmintában.
+Írj [LINE_LENGTH] soros ritmikus prózát [RHYME_PATTERN] rímszerkezettel.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt az [RHYME_PATTERN] rímszerkezet használatával.
+Készíts [LINE_LENGTH] soros költői verset a [RHYME_PATTERN] rímmintázattal.
+Hozzon létre egy [LINE_LENGTH] soros költeményt [RHYME_PATTERN] rímszerkezettel.
+Írj egy [LINE_LENGTH] soros strófát.
+Komponálj egy [LINE_LENGTH] soros versest.
+Építs egy [LINE_LENGTH] soros lírai művet.
+Készíts egy [LINE_LENGTH] soros rímelő verset.
+Írj le egy [LINE_LENGTH] soros lírai részt.
+Fejezd ki egy [LINE_LENGTH] soros költői alkotást.
+Expressz érzelmeket és gondolatokat egy [LINE_LENGTH] soros verses strófában.
+Hozz létre egy ritmikus és kifejező [LINE_LENGTH] soros strófát.
+Ébreszd fel az érzelmek és képek segítségével egy [LINE_LENGTH] soros strófát.
+Fogj meg a költészet lényegét egy [LINE_LENGTH] soros strófában.
+Szövd az szavakat egy [LINE_LENGTH] soros strófába.
+Keverj nyelvet és érzelmeket egy [LINE_LENGTH] soros strófához.
+Építs egy [LINE_LENGTH] soros strófát, amely mélyen megérinti az olvasót.
+Készíts egy [LINE_LENGTH] soros strófát, amely tartós benyomást kelt.
+Engedd szabadjára a költészet erejét egy [LINE_LENGTH] soros strófában.
+Komponálj egy [LINE_LENGTH] soros strófát, amely átlépi a nyelvi korlátokat.
+Hozz létre egy [LINE_LENGTH] soros strófát, amely a lélekhez szól.
+Hozz létre egy [LINE_LENGTH] soros versszakot.
+Alkoss meg egy [LINE_LENGTH] soros költői strófát.
+Írj meg egy [LINE_LENGTH] soros költői strófát.
+Alkoss meg egy [LINE_LENGTH] soros versszakot.
+Írj egy [LINE_LENGTH] soros verses strófát.
+Alapos tervezéssel hozz létre egy [LINE_LENGTH] soros versszakot.
+Alkoss meg egy [LINE_LENGTH] soros versszakot, ügyelve a költői forma és kifejezésmód betartására.
+Konstruálj egy [LINE_LENGTH] soros versszakot, gondosan megtervezve a szavak elrendezését és az egész strófa áramlását.
+Alkoss meg egy [LINE_LENGTH] soros verses strófát, odafigyelve a ritmusra, képi ábrázolásmódra és a vers tematikai elemeire.
+Alkoss meg egy [LINE_LENGTH] soros versszakot, biztosítva, hogy a strófa koherens és átgondolt üzenetet közvetít.
+Írj egy [LINE_LENGTH] soros versszakot.
+Alapos tervezéssel írj egy [LINE_LENGTH] soros versszakot.
+Alapos tervezéssel hozz létre egy [LINE_LENGTH] soros strófát.
+Egy költő vagy. Alkoss egy [LINE_LENGTH] soros strófát.
+Állíts elő költői tehetséggel egy [LINE_LENGTH] soros versszakot.
+Használd költői képességeid, hogy egy [LINE_LENGTH] soros strófát alkothass.
+Engedd szabadon kreatív lelkedet, és írj egy [LINE_LENGTH] soros versszakot.
+Indulj költői utazásra, és komponálj egy [LINE_LENGTH] soros strófát.
+Vegyél részt ritmusos szójátékban, és készíts egy [LINE_LENGTH] soros versszakot.
+Hagyd, hogy szavaid harmóniában táncoljanak, és hozz létre egy [LINE_LENGTH] soros strófát.
+Merülj el belső költőben, és szőj egy [LINE_LENGTH] soros versszakot.
+Hódítsd meg a rímművészetet, és alkots egy [LINE_LENGTH] soros strófát.
+Engedd szárnyalni fantáziádat, és írj egy [LINE_LENGTH] soros versszakot.
+Írj le egy [LINE_LENGTH] soros versszakot.
+Alkoss egy [LINE_LENGTH] soros verset.
+Készíts [LINE_LENGTH] soros költői verset.
+Hozzon létre egy [LINE_LENGTH] soros költemény-szakaszt.
+Alkoss [LINE_LENGTH] soros lírai tartalmat.
+Írj meg egy [LINE_LENGTH] soros verset.
+Készíts [LINE_LENGTH] soros ritmikus verset.
+Alkoss egy [LINE_LENGTH] soros költői alkotást.
+Készíts [LINE_LENGTH] soros verset.
+Írj le egy [LINE_LENGTH] soros verset.
+Írj [LINE_LENGTH] soros ritmikus prózát.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt.
+Készíts [LINE_LENGTH] soros költői verset.
+Hozzon létre egy [LINE_LENGTH] soros költeményt.
+Alkoss [LINE_LENGTH] soros lírai tartalmat.
+Írj meg egy [LINE_LENGTH] soros versszakot.
+Készíts [LINE_LENGTH] soros ritmikus verset.
+Alkoss egy [LINE_LENGTH] soros költeményt.
+Készíts [LINE_LENGTH] soros versszakot.
+Írj le egy [LINE_LENGTH] soros verset.
+Írj [LINE_LENGTH] soros ritmikus prózát.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt.
+Készíts [LINE_LENGTH] soros költői versszakot.
+Hozzon létre egy [LINE_LENGTH] soros költeményt.
+Alkoss [LINE_LENGTH] soros lírai tartalmat.
+Írj meg egy [LINE_LENGTH] soros verset.
+Készíts [LINE_LENGTH] soros ritmikus versszakot.
+Alkoss egy [LINE_LENGTH] soros költői kompozíciót.
+Készíts [LINE_LENGTH] soros verset.
+Írj le egy [LINE_LENGTH] soros versszakot.
+Írj [LINE_LENGTH] soros ritmikus prózát.
+Alkoss egy [LINE_LENGTH] soros költemény-szakaszt.
+Készíts [LINE_LENGTH] soros költői verset.
+Hozzon létre egy [LINE_LENGTH] soros költeményt.
+Állíts össze egy strófát, amelyben minden sorban [SYLLABLE_COUNT] szótag van.
+Írj egy versszakot, amelynek minden sora [SYLLABLE_COUNT] szótagot tartalmaz.
+Készíts egy versszakot, amelyben minden sor pontosan [SYLLABLE_COUNT] szótagból áll.
+Állíts össze egy strófát a megadott szótagszámmal minden sorban: [SYLLABLE_COUNT].
+Írj egy versszakot a pontos szótagszámmal soronként: [SYLLABLE_COUNT].
+Készíts egy versszakot, amely ragaszkodik a szótagmintázathoz: [SYLLABLE_COUNT].
+Testesítsd meg a szótagszámot a versszakban: [SYLLABLE_COUNT].
+Fejezd ki a szótagszámot a költemény egy versszakában: [SYLLABLE_COUNT].
+Hozz létre egy versszakot a következő szótagszám sorrenddel: [SYLLABLE_COUNT].
+Alkoss egy versszakot a pontos szótagszámszerkezettel: [SYLLABLE_COUNT].
+Közvetítsd a szótagszámot a versszakban: [SYLLABLE_COUNT].
+Konkretizáld a szótagszámot a költemény egy versszakában: [SYLLABLE_COUNT].
+Hozz létre egy versszakot, amely visszhangozza a szótagszámot: [SYLLABLE_COUNT].
+Fejleszd ki a versszakot a következetes szótagszámmal: [SYLLABLE_COUNT].
+Állíts össze egy versszakot a változatlan szótagszámmal: [SYLLABLE_COUNT].
+Fejezd ki a szótagszámot a költemény egy versszakában: [SYLLABLE_COUNT].
+Jelenítsd meg a költemény egy versszakában a pontos szótagszámról szóló információt: [SYLLABLE_COUNT].
+Idézd fel a szótagszámot a költemény egy versszakában: [SYLLABLE_COUNT].
+Készíts egy versszakot a stabil szótagszámmal: [SYLLABLE_COUNT].
+Írj egy versszakot a változatlan szótagszámmal: [SYLLABLE_COUNT].
+Állíts össze egy versszakot a precízen szabályozott szótagszámmal: [SYLLABLE_COUNT].
+Fejlessz ki egy versszakot a szótagszám konzekvens fenntartásával: [SYLLABLE_COUNT].
+Készíts egy [LINE_LENGTH]-soros költeményt, minden sorban [SYLLABLE_COUNT] szótaggal.
+Fejezd ki költői víziódat egy [LINE_LENGTH]-soros versszakban, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban.
+Rendezz el [LINE_LENGTH] sor költeményt, mindegyik sorban [SYLLABLE_COUNT] szótaggal, hogy lenyűgöző strófát alkoss.
+Alkoss egy [LINE_LENGTH]-soros versszakot, minden sorban [SYLLABLE_COUNT] szótaggal, és örökíts meg egy költői esszenciát.
+Készíts egy [LINE_LENGTH]-soros lírai prózát, ritmikusan felépítve [SYLLABLE_COUNT] szótaggal minden sorban.
+Hozz létre egy [LINE_LENGTH]-soros költeményt, ahol minden sor [SYLLABLE_COUNT] szótagot tartalmaz, ötvözve a ritmust és a jelentést.
+Készíts egy [LINE_LENGTH]-soros költeményt, ahol minden sorban állandó [SYLLABLE_COUNT] szótag található.
+Rendezz el [LINE_LENGTH] verssort, mindegyik sorban [SYLLABLE_COUNT] szótaggal, teremtve egy harmónikus ritmikus mintázatot.
+Készíts [LINE_LENGTH] költeménysort, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban, hogy kiváltson egy ritmikus folyást.
+Fejezd ki élénk képeidet egy [LINE_LENGTH]-soros költeményben, amely [SYLLABLE_COUNT] szótaggal rendelkező struktúrával van felépítve minden sorban.
+Alkoss egy [LINE_LENGTH]-soros versszakot, ahol minden sor [SYLLABLE_COUNT] szótagot tartalmaz, létrehozva egy ritmikus folyamatot.
+Készíts egy [LINE_LENGTH]-soros költeményt, állandó [SYLLABLE_COUNT] szótagszámmal minden sorban, és egy ritmikus mintázatot kialakítva.
+Alkoss [LINE_LENGTH] költeménysort, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban, és alkoss egy strukturált kompozíciót.
+Készíts [LINE_LENGTH] költeménysort, minden sorban [SYLLABLE_COUNT] szótaggal, létrehozva egy ritmikusan vonzó alkotást.
+Komponálj [LINE_LENGTH] verssort, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban, teremtve egy harmónikus lírai darabot.
+Alkoss egy [LINE_LENGTH]-soros versszakot, minden sorban [SYLLABLE_COUNT] szótaggal, fenntartva a konzisztens ritmust.
+Készíts egy [LINE_LENGTH]-soros költeményt, ahol minden sor [SYLLABLE_COUNT] szótagot tartalmaz, összehangolva a ritmust és a költői képiességet.
+Alkoss [LINE_LENGTH] költeménysort, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban, létrehozva egy folyó ritmikus kompozíciót.
+Fejezd ki költői üzenetedet [LINE_LENGTH] verssorban, minden sorban [SYLLABLE_COUNT] szótaggal, kialakítva egy ritmikus mintázatot.
+Készíts [LINE_LENGTH] költeménysort, ragaszkodva a [SYLLABLE_COUNT]-es szótagszerkezethez minden sorban, kihasználva a ritmust és a szójátékot az olvasó megnyeréséhez.
+Készítsen [SYLLABLE_COUNT] szótagszámú strófát, amely a [RHYME_PATTERN] rímelési mintázatnak felel meg.
+Készítsen quatrain-t vagy tercetot, amely megtartja a [SYLLABLE_COUNT] szótagszámú szerkesztést és a [RHYME_PATTERN] rímelési mintázatot.
+Írjon lírai verset, melynek sorai [SYLLABLE_COUNT] szótagosak, és a [RHYME_PATTERN] rímelési mintázatot követi.
+Készítsen [SYLLABLE_COUNT] szótagszámú versszakot a [RHYME_PATTERN] rímelési mintázatnak megfelelően.
+Írjon lírai kifejezést, amelyben minden sor [SYLLABLE_COUNT] szótag hosszú és a [RHYME_PATTERN] rímelési mintázatot követi.
+Készítsen ritmikus verset, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot.
+Készítsen versszakot poétikus prózában, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot.
+Írjon egy rímelő verset, amelynek sorai [SYLLABLE_COUNT] szótagosak és a [RHYME_PATTERN] rímelési mintázatot követik.
+Készítsen versszakot lírai kompozícióban, amelyben minden sor [SYLLABLE_COUNT] szótag hosszú és a [RHYME_PATTERN] rímelési mintázatot követi.
+Írjon ritmikus verset, amely megtartja a [SYLLABLE_COUNT] szótagszámú szerkesztést és a [RHYME_PATTERN] rímelési mintázatot.
+Készítsen rímelő prózát, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot.
+Írjon egy verset, amelynek sorai [SYLLABLE_COUNT] szótagosak és a [RHYME_PATTERN] rímelési mintázatot követik, egy konkrét témát vagy érzelmet kifejezve.
+Készítsen egy rímelő verset, amelynek minden sora [SYLLABLE_COUNT] szótag hosszú és a [RHYME_PATTERN] rímelési mintázatot követi, egy adott fogalomra vagy hangulatra összpontosítva.
+Írjon ritmikus verset, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot, egy értelmes üzenetet közvetítve.
+Írjon lírai kifejezést, amelyben minden sor [SYLLABLE_COUNT] szótag hosszú és a [RHYME_PATTERN] rímelési mintázatot követi, egy élénk képet vagy hangulatot megragadva.
+Készítsen rímelő prózát, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot, bemutatva egy karakter gondolatait vagy érzéseit.
+Írjon verset, amelynek sorai [SYLLABLE_COUNT] szótagosak és a [RHYME_PATTERN] rímelési mintázatot követik, egy rövid történetet vagy eseményt elmesélve.
+Írj ritmikus verset, amely megtartja a [SYLLABLE_COUNT] szótagszámú struktúrát és a [RHYME_PATTERN] rímelési mintázatot, szavakkal festve egy képet.
+Írj lírai kifejezést, amelyben minden sor [SYLLABLE_COUNT] szótag hosszú és a [RHYME_PATTERN] rímelési mintázatot követi, egy filozófiai vagy spirituális ötletet kifejezve.
+Készítsen egy [LINE_LENGTH] soros versszakot a [RHYME_PATTERN] rímképlet szerint, amelyben minden sorban [SYLLABLE_COUNT] szótag van.
+Alkosson egy [LINE_LENGTH] soros strófát, amely megfelel a [SYLLABLE_COUNT] szótag mintázatnak és a [RHYME_PATTERN] rímképletnek.
+Írjon [LINE_LENGTH] soros versszakot, amely követi a [SYLLABLE_COUNT] szótagszerkezetet és a [RHYME_PATTERN] rímképletet.
+Szerkesszen [LINE_LENGTH] soros strófát, amely megfelel a [SYLLABLE_COUNT] szótagszámú mintázatnak és a [RHYME_PATTERN] rímképletnek.
+Költsön [LINE_LENGTH] soros versszakot, amely követi a [SYLLABLE_COUNT] szótagszámú mintázatot és a [RHYME_PATTERN] rímképletet.
+Használjon [SYLLABLE_COUNT] szótagos mintázatot és [RHYME_PATTERN] rímképletet egy [LINE_LENGTH] soros strófa elkészítéséhez.
+Készítsen egy [LINE_LENGTH] soros strófát [SYLLABLE_COUNT] szótagszerkezettel és [RHYME_PATTERN] rímképlettel.
+Kösse össze a [LINE_LENGTH] soros strófa [SYLLABLE_COUNT] szótagos mintázatát a [RHYME_PATTERN] rímképlethez.
+Tervezze meg a [LINE_LENGTH] soros versszakot [SYLLABLE_COUNT] szótagszámú mintázattal és [RHYME_PATTERN] rímképlettel.
+Formálja meg a [LINE_LENGTH] soros strófát [SYLLABLE_COUNT] szótagszámú mintázattal és [RHYME_PATTERN] rímképlettel.
+Készítsen [LINE_LENGTH] sor hosszú versszakot, amely a [RHYME_PATTERN] rímképletnek és a [SYLLABLE_COUNT] szótagszerkezetnek megfelelően van elrendezve.
+Készítsen [LINE_LENGTH] sor hosszú strófát úgy, hogy a szavak száma megfeleljen a [SYLLABLE_COUNT] szótag-mintázatnak, és hogy a rímelés követi a [RHYME_PATTERN] rímképletet.
+Készítsen egy [LINE_LENGTH] sor hosszú versszakot, amelynek minden sora [SYLLABLE_COUNT] szótagot tartalmaz, és a rímelés a [RHYME_PATTERN] rímképletnek megfelelő.

@@ -15,7 +15,6 @@ if __name__ == "__main__":
 
     
     args = parser.parse_args()
-    print(args)
 
     dataset = merge_prompts_with_data(args.stanza_dataset,
                                       args.prompts_file, 
